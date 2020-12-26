@@ -241,7 +241,11 @@ section.gallery .gallery-subtitle-text p {
 }
 
 section.aboutMe .aboutMeText {
-  padding-top: 80px;
+  padding-top: 100px;
+}
+
+section.aboutMe .aboutMeImg {
+  width: 100%;
 }
 
 section.contact {
